@@ -1,10 +1,10 @@
 # tELegrAMZapReT
 
-Сборка tELegrAMZapReT: Telegram без прокси. Медиа и звонки идут напрямую, IP ваш.
+Обновлённая версия с улучшенной поддержкой Telegram. Надежнее, быстрее, стабильнее
 
 Сборка tELegrAMZapReT: Telegram без прокси. Медиа и звонки идут напрямую, IP ваш. обход блокировки Telegram, Telegram не отправляет фото, Telegram звонки не работают, zapret Telegram. Windows 10 и 11, без VPN.
 
-Релиз: https://github.com/HelmsmanAmend97/tELegrAMZapReT/releases/latest
-Код: https://github.com/HelmsmanAmend97/tELegrAMZapReT
+Релиз: https://github.com/helmsmanamend97/tELegrAMZapReT/releases/latest
+Код: https://github.com/helmsmanamend97/tELegrAMZapReT
 Основа: https://github.com/bol-van/zapret
-Страница: https://github.com/HelmsmanAmend97/tELegrAMZapReT
+Страница: https://github.com/helmsmanamend97/tELegrAMZapReT
